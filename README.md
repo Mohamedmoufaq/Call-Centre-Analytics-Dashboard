@@ -6,7 +6,7 @@ An interactive and automated Excel analytics dashboard designed to analyze call 
 
 ## 📊 Dashboard Overview
 
-![Call Centre Analytics Dashboard](assets/images/call_centre_dashboard.png)
+![Call Centre Analytics Dashboard](call_centre_dashboard.png)
 
 > *Note: Download the `.xlsx` file above to interact with the dynamic Slicers and Pivot Tables natively in MS Excel.*
 
