@@ -2,6 +2,8 @@
 
 An interactive and automated Excel analytics dashboard designed to analyze call centre operations, monitor key performance indicators (KPIs), and derive actionable insights regarding call volumes, agent efficiency, and customer satisfaction.
 
+> 🔒 **Security Notice:** The core Excel workbook (`.xlsx`) and backend data transformation templates are retained privately to protect custom analytical formulas, dynamic KPI calculations, and operational metrics. High-resolution interface previews and core business insights are provided below for evaluation.
+
 ---
 
 ## 📊 Dashboard Overview
